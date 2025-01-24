@@ -1,0 +1,185 @@
+{
+    "22A52": {
+          "especificas": ["C1"],
+          "genericas": ["1b", "1g", "1l"],
+          "saberpro": ["SP5"],
+          "abet": [],
+          "dimension": ["D4"]
+        },
+        "22A69": {
+          "especificas": ["C1"],
+          "genericas": ["1b","1e"],
+          "saberpro": ["SP5"],
+          "abet": [],
+          "dimension": []
+        },
+        "22A53": {
+            "especificas": ["C1"],
+            "genericas": ["1b","1e"],
+            "saberpro": ["SP5"],
+            "abet": [],
+            "dimension": ["D4"]
+        },
+        "22A05": {
+          "especificas": ["C1","C2"],
+          "genericas": ["1b","1e"],
+          "saberpro": ["SP5"],
+          "abet": ["1.1","1.3","6.1","6.3"],
+          "dimension": []
+        },
+        "23A57": {
+          "especificas": [],
+          "genericas": [],
+          "saberpro": [],
+          "abet": [],
+          "dimension": []
+        },
+        "22A06": {
+          "especificas": ["C1"],
+          "genericas": ["1b"],
+          "saberpro": ["SP1"],
+          "abet": [],
+          "dimension": []
+        },
+        "22A13": {
+          "especificas": ["C1"],
+          "genericas": ["1a","1i"],
+          "saberpro": ["SP2"],
+          "abet": ["1.2","1.3","5.1","5.2"],
+          "dimension": []
+        },
+        "22A09": {
+          "especificas": ["C1"],
+          "genericas": ["1d","1e"],
+          "saberpro": ["SP1"],
+          "abet": [],
+          "dimension": []
+        },
+        "22A07": {
+          "especificas": ["C2"],
+          "genericas": ["1b","1d","1i"],
+          "saberpro": ["SP1"],
+          "abet": [],
+          "dimension": ["D4"]
+        },
+        "22A08": {
+          "especificas": ["C2","C3"],
+          "genericas": ["1a","1h","1i"],
+          "saberpro": ["SP3"],
+          "abet": ["2.1","2.3","5.1","5.2"],
+          "dimension": []
+        },
+        "22A12": {
+          "especificas": [],
+          "genericas": [],
+          "saberpro": [],
+          "abet": [],
+          "dimension": []
+        },
+        "22A27": {
+          "especificas": [],
+          "genericas": [],
+          "saberpro": [],
+          "abet": [],
+          "dimension": []
+        },
+        "22A11": {
+          "especificas": [],
+          "genericas": [],
+          "saberpro": [],
+          "abet": [],
+          "dimension": []
+        },
+        "22A16": {
+          "especificas": [],
+          "genericas": [],
+          "saberpro": [],
+          "abet": [],
+          "dimension": []
+        },
+        "22A14": {
+          "especificas": [],
+          "genericas": [],
+          "saberpro": [],
+          "abet": [],
+          "dimension": []
+        },
+        "22A32": {
+          "especificas": [],
+          "genericas": [],
+          "saberpro": [],
+          "abet": [],
+          "dimension": []
+        },
+        "22A31": {
+          "especificas": [],
+          "genericas": [],
+          "saberpro": [],
+          "abet": [],
+          "dimension": []
+        },
+        "22A35": {
+          "especificas": [],
+          "genericas": [],
+          "saberpro": [],
+          "abet": [],
+          "dimension": []
+        },
+        "22A66": {
+          "especificas": [],
+          "genericas": [],
+          "saberpro": [],
+          "abet": [],
+          "dimension": []
+        },
+        "22A36": {
+          "especificas": [],
+          "genericas": [],
+          "saberpro": [],
+          "abet": [],
+          "dimension": []
+        },
+        "22A34": {
+          "especificas": [],
+          "genericas": [],
+          "saberpro": [],
+          "abet": [],
+          "dimension": []
+        },
+        "22A18": {
+          "especificas": [],
+          "genericas": [],
+          "saberpro": [],
+          "abet": [],
+          "dimension": []
+        },
+        "22A10": {
+          "especificas": [],
+          "genericas": [],
+          "saberpro": [],
+          "abet": [],
+          "dimension": []
+        },
+        "22A25": {
+          "especificas": [],
+          "genericas": [],
+          "saberpro": [],
+          "abet": [],
+          "dimension": []
+        },
+        "22A19": {
+          "especificas": [],
+          "genericas": [],
+          "saberpro": [],
+          "abet": [],
+          "dimension": []
+        },
+        "22A26": {
+          "especificas": [],
+          "genericas": [],
+          "saberpro": [],
+          "abet": [],
+          "dimension": []
+        }
+      }
+      

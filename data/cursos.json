@@ -1,0 +1,135 @@
+{
+    "cursos": [
+      {
+        "Semestre": 2,
+        "Codigo": "22A52",
+        "Asignatura": "PENSAMIENTO COMPUTACIONAL (Antes LOGICA ALGORITMICA)"
+      },
+      {
+        "Semestre": 3,
+        "Codigo": "22A69",
+        "Asignatura": "PROGRAMACION ESTRUCTURADA"
+      },
+      {
+        "Semestre": 3,
+        "Codigo": "22A53",
+        "Asignatura": "PROGRAMACION DE COMPUTADORES"
+      },
+      {
+        "Semestre": 4,
+        "Codigo": "22A05",
+        "Asignatura": "APO II- ING DE SISTEMAS"
+      },
+      {
+        "Semestre": 4,
+        "Codigo": "23A57",
+        "Asignatura": "INTRODUCCIÓN ANALÍTICA DE DATOS (APO II INGENIERIAS)"
+      },
+      {
+        "Semestre": 4,
+        "Codigo": "22A06",
+        "Asignatura": "METODOS NUMERICOS"
+      },
+      {
+        "Semestre": 5,
+        "Codigo": "22A13",
+        "Asignatura": "SISTEMAS TELEMATICOS (sala de redes)"
+      },
+      {
+        "Semestre": 5,
+        "Codigo": "22A09",
+        "Asignatura": "MATEMATICAS DISCRETAS"
+      },
+      {
+        "Semestre": 5,
+        "Codigo": "22A07",
+        "Asignatura": "ESTRUCTURA DE DATOS"
+      },
+      {
+        "Semestre": 5,
+        "Codigo": "22A08",
+        "Asignatura": "INGENIERIA DE SOFTWARE I (sala de redes)"
+      },
+      {
+        "Semestre": 6,
+        "Codigo": "22A12",
+        "Asignatura": "SISTEMAS DE CONTROL AUTOMATICO"
+      },
+      {
+        "Semestre": 6,
+        "Codigo": "22A27",
+        "Asignatura": "DESARROLLO DE APLICACIONES MOVILES"
+      },
+      {
+        "Semestre": 6,
+        "Codigo": "22A11",
+        "Asignatura": "MODELOS DE PERSISTENCIA (sala de redes)"
+      },
+      {
+        "Semestre": 6,
+        "Codigo": "22A16",
+        "Asignatura": "INFRA. Y SEGURIDAD COMPUTACIONAL (sala de redes)"
+      },
+      {
+        "Semestre": 7,
+        "Codigo": "22A14",
+        "Asignatura": "AGENTES INTELIGENTES"
+      },
+      {
+        "Semestre": 7,
+        "Codigo": "22A32",
+        "Asignatura": "GESTION DE TI"
+      },
+      {
+        "Semestre": 7,
+        "Codigo": "22A31",
+        "Asignatura": "DESARROLLO DE APLICACIONES UI/UX"
+      },
+      {
+        "Semestre": 7,
+        "Codigo": "22A35",
+        "Asignatura": "ARQUITECTURA DE SOFTWARE (sala de redes)"
+      },
+      {
+        "Semestre": 7,
+        "Codigo": "22A66",
+        "Asignatura": "ELECTIVA PROFESIONAL 1: WEB, APIS y MICROSERVICIOS"
+      },
+      {
+        "Semestre": 8,
+        "Codigo": "22A36",
+        "Asignatura": "COMPUTACION EN LA NUBE (sala de redes)"
+      },
+      {
+        "Semestre": 8,
+        "Codigo": "22A34",
+        "Asignatura": "DESARROLLO DE APLICACIONES EMPRESARIALES (sala de redes)"
+      },
+      {
+        "Semestre": 8,
+        "Codigo": "22A18",
+        "Asignatura": "INTELIGENCIA DE NEGOCIOS"
+      },
+      {
+        "Semestre": 6,
+        "Codigo": "22A10",
+        "Asignatura": "INGENIERIA DE SOFTWARE II (sala de redes)"
+      },
+      {
+        "Semestre": 0,
+        "Codigo": "22A25",
+        "Asignatura": "ELECTIVA PROFESIONAL 2: Desarrollo Videojuegos"
+      },
+      {
+        "Semestre": 9,
+        "Codigo": "22A19",
+        "Asignatura": "MODELOS DE NEGOCIACIÓN TECNOLÓGICA"
+      },
+      {
+        "Semestre": 0,
+        "Codigo": "22A26",
+        "Asignatura": "ELECTIVA GENERAL: PROCESAMIENTO DIGITAL DE IMAGENES"
+      }
+    ]
+  }
+  
